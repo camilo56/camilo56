@@ -6,8 +6,7 @@ reeadme de saludo al repositorio
 
 ### *////////////////////*
 
-What things you need to install the software and how to install them
-
+comentario de prueba
 ```
 "Hola mundo"
 ```
