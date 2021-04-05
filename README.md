@@ -1,4 +1,17 @@
 ### Hi there 👋
+# Bienvenido 
+
+reeadme de saludo al repositorio
+
+
+### *////////////////////*
+
+What things you need to install the software and how to install them
+
+```
+"Hola mundo"
+```
+
 
 <!--
 **camilo56/camilo56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
