@@ -1,4 +1,4 @@
-### Hi there 👋
+###e👋hola
 # Bienvenido 
 
 reeadme de saludo al repositorio
@@ -25,4 +25,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+->
