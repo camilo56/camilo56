@@ -1,7 +1,7 @@
 ###e👋hola
 # Bienvenido 
 
-reeadme de saludo al repositorio
+bienvenido mi nombre es camilo
 
 
 ### *////////////////////*
