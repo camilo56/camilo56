@@ -3,10 +3,6 @@
 
 bienvenido mi nombre es camilo
 
-
-### *////////////////////*
-
-comentario de prueba
 ```
 "Hola mundo"
 ```
