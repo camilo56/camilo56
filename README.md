@@ -1,8 +1,7 @@
-###e👋hola
+👋hola
 # Bienvenido 
 
-bienvenido mi nombre es camilo
-
+mi nombre es camilo👯.
 ```
 "Hola mundo"
 ```
